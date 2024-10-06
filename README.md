@@ -1,0 +1,1 @@
+In this activity, you build the simplest neural network for computer vision as an introduction to the main motions and jargon of deep learning. This network is a pure feed forward network, where each pixel has its own input neuron and that neuron is connected via simple weights through the network.
